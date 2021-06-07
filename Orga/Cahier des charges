@@ -1,0 +1,62 @@
+1 Pres du projet
+
+Un pokedex reunissant les pokemons première génération afin de pouvoir se renseigner et creer son équipe rapidement.
+
+
+
+2 Specifications fonctionelles 
+
+Dans un premier temps definir un Minimum Viable Product. Dans ces fonctionnalités indispensables on peut noter:
+
+- une barre de navigation permettant de se déplacer entre les différentes pages du site
+
+- une page listant les pokémons generation 1
+
+-la possibilité de se logger pour un dresseur 
+
+-la possibilité pour le dresseur de selectionner les pokemons pour les mettre dans ton équipe
+
+-la possibilité depuis toutes les pages de se déconnecter
+
+-la possibilité de rechercher des pokemons grace a des mots clés ou des filtres
+
+-une page personelle pour chaque pokémon les definissant 
+
+/Les evolutions potentielles
+
+-Simulateur de stats en fonction du niveau/objets utilisés sur le pokémon
+
+-Creer plusieurs équipes
+
+-Creer une gestion d'inventaire a utiliser pour préparer un battleplanner
+
+-Simuler un 1 vs 1 pour un battleplanner avec forces et faiblesses
+
+
+3 Specifications techniques
+
+Front End:
+
+-React Redux, pour construire une interface réactive, rapide et fluide et reutiliser certains composants
+
+-Sass pour le style
+
+-Axios pour les requetes
+
+(-Firebase Storage, pour heberger les images)
+
+-GSAP pour les animations
+
+Back End:
+
+-Une API en Json deployé localement
+
+-Express-session pour les mdps et username => Voir local storage
+
+(Deploiement=
+Heroku pour API
+Surge pour l'UI)
+
+
+
+

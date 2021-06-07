@@ -1,0 +1,21 @@
+Listes des routes (front)
+
+Acceuil: "/"
+
+Tous les pokemons: "/pokemons"
+
+Tous les pkms par filtres : "/pokemons/[filtre]"
+
+Un pokemon: "/pokemon/[name]/
+
+Inscription: "/inscription"
+
+Mon équipe: "/my-team"
+
+
+Listes des routes (back)
+
+
+
+
+
